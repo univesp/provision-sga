@@ -1,0 +1,7 @@
+production:
+  issuer: 
+  idp_sso_target_url: 
+  idp_slo_target_url: 
+  name_identifier_format: 
+  idp_cert: -----BEGIN CERTIFICATE-----
+            -----END CERTIFICATE-----
